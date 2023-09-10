@@ -13,8 +13,10 @@
     "@nuxtjs/tailwindcss": "^6.8.0",
     "@sidebase/nuxt-auth": "0.6.0-beta.5",
     "dayjs": "^1.11.9",
-    "next-auth": "4.21.1",
     "nuxt": "^3.7.1",
     "sass": "^1.66.1"
+  },
+  "dependencies": {
+    "next-auth": "4.21.1"
   }
 }
